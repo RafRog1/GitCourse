@@ -1,0 +1,1 @@
+Pierway projekt w wersji GIT.
