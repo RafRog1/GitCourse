@@ -1,3 +1,3 @@
-Pierway projekt w wersji GIT.
+Projekt w wersji GIT.
 
 Zmiana w pliku.
